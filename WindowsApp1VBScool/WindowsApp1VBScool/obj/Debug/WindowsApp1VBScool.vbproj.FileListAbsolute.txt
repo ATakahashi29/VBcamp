@@ -1,0 +1,12 @@
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\bin\Debug\WindowsApp1VBScool.exe.config
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\bin\Debug\WindowsApp1VBScool.exe
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\bin\Debug\WindowsApp1VBScool.pdb
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\bin\Debug\WindowsApp1VBScool.xml
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\obj\Debug\WindowsApp1VBScool.vbproj.AssemblyReference.cache
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\obj\Debug\WindowsApp1VBScool.Form1.resources
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\obj\Debug\WindowsApp1VBScool.Resources.resources
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\obj\Debug\WindowsApp1VBScool.vbproj.GenerateResource.cache
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\obj\Debug\WindowsApp1VBScool.vbproj.CoreCompileInputs.cache
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\obj\Debug\WindowsApp1VBScool.exe
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\obj\Debug\WindowsApp1VBScool.xml
+C:\VS2022\GitHub\WindowsApp1VBScool\WindowsApp1VBScool\obj\Debug\WindowsApp1VBScool.pdb
